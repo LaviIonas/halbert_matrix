@@ -1,2 +1,2 @@
-# Halberd
+# Halbert
 Matrix Client
